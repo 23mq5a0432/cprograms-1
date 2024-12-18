@@ -14,10 +14,10 @@ void main()
     }
     if(temp==rev)
     {
-        printf("it  is a palandrome number");
+        printf("it  is a palindrome number");
     }
     else
     {
-        printf("it is not a palandrome number ");
+        printf("it is not a palindrome number ");
     }
 }
