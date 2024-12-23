@@ -9,5 +9,5 @@ void main()
     {
         fact=fact*i;
     }
-        printf("the factorial of the number is %d",fact);
+        printf("the factorial of the number is %ld",fact);
 }
